@@ -53,4 +53,4 @@ def sobel_edge_detection(image):
     plt.title('Result')
     plt.imshow(comb, cmap='gray')
     
-    return image
+    return comb
